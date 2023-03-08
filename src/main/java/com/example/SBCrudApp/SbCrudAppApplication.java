@@ -10,6 +10,7 @@ import jakarta.persistence.metamodel.Type;
 @SpringBootApplication
 public class SbCrudAppApplication {
 
+	//comment for aniket
 	public static void main(String[] args) {
 		SpringApplication.run(SbCrudAppApplication.class, args);
 	}
